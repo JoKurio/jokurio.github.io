@@ -18,6 +18,6 @@ function validate() {
        document.contactMe.message.focus() ;
        return false;
     }
-    return( true ) && ( "Thank You!" );
+    return( true ) && alert( "Thank You!" );
     
  }
