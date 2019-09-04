@@ -1,0 +1,32 @@
+body{
+    text-align: left;
+    margin-left: 48px;
+}
+img{
+    border-radius: 50%;
+    margin-left: 72px;
+}
+h1, h2, h3 {
+    color: #0000FF;
+}
+div{
+    margin-left:54px;
+}
+p{
+    font-size: 12;
+}
+hr {
+    border: 3px solid #0000FF;
+    border-radius: 5px;
+    margin-bottom: 0px;
+  }
+  input{
+      width: 20%;
+      color:#000000;
+      border: 2px solid #000000;
+  }
+  div{
+      background: #A9A9A9;
+      margin: 0px;
+      padding-bottom: 50px;
+  }
